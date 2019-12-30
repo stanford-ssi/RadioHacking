@@ -1,0 +1,10 @@
+{
+    "name": "ssi_adc",
+    "build":{
+        "flags":
+        [
+            "-Isource"
+        ],
+        "libArchive": false
+    }
+}
